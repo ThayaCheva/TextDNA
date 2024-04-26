@@ -1,3 +1,7 @@
+<h1> Video Overview </h1>
+
+[![TextDNA](https://img.youtube.com/vi/6U1lD_LM_7o/0.jpg)](https://www.youtube.com/watch?v=6U1lD_LM_7o)
+
 ### Table of Contents 
 * [Project Overview](#project-overview)
 * [Demo](#demo)
